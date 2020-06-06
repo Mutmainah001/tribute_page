@@ -1,0 +1,37 @@
+
+
+
+li{
+	margin-bottom:30px;
+	line-height: 2;
+}
+body{
+	margin-left: 100px;
+	margin-top: 50px;
+	font-family: sans-serif;
+
+}
+ul{
+	padding: 40px;
+	line-height: 2;
+}
+.head{
+	padding-left:30px;
+	padding-right: 20px;
+	margin-bottom: 30px;
+	font-stretch: condensed;
+
+}
+img{
+	width:600px;
+	height:300px;
+
+}
+.tittle{
+	padding-left: 70px;
+	margin-bottom: 50px;
+}
+.header{
+	background color: #FFF5EE;
+	padding-top: 40px;
+}
